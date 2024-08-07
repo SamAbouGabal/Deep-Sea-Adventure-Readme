@@ -1,7 +1,7 @@
 
 # Deep Sea Adventure
 
-![Intro](https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/aba3033d-8c90-4e7f-8c80-40cf6d216962)
+![DSA HEADER](https://github.com/user-attachments/assets/39749fa0-11e7-49e2-8230-15fdaebec93a)
 
 Descend into a vibrant underwater world teeming with life and riches.
 
@@ -31,21 +31,19 @@ Special thank you to **Jan-Peter Itze** for writing the amazing music and sound 
 
 ## Media
 
-{link to google play}
+[{link to google play}](https://play.google.com/store/apps/details?id=com.SiC.SiC&hl=en)
 
-<img width="1085" alt="Title" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/d0ccdd22-bf28-462a-91b0-e36a864c5768">
-<img width="1085" alt="MainMenu" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/6d172458-ad9d-4b1b-95ee-2581200bfa86">
-<img width="1084" alt="Inventory" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/78bb4f3b-3b87-4ff8-9bc5-56ee0675f647">
-<img width="1084" alt="TrailShop" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/c7fc12a2-81f1-4385-bcc3-8ac0426d6432">
-<img width="1084" alt="LootShop" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/39556228-e73b-4362-9b3b-84c99f8be86e">
-<img width="1083" alt="DailyRewards" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/8fbf314d-4ba8-42ec-949e-860adad5f0b9">
-<img width="1081" alt="Settings" src="https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/741fbbeb-db34-446e-b031-69573cbc68c0">
+<img width="1085" alt="DSA 1" src="https://github.com/user-attachments/assets/7246273e-97b0-4434-b73c-62106055e1a0">
+<img width="1085" alt="DSA 2" src="https://github.com/user-attachments/assets/dce8f163-1f06-4280-9189-159105de69ef">
+<img width="1084" alt="DSA 3" src="https://github.com/user-attachments/assets/0aa92b7e-fa09-46e2-b152-09dd07dc42b0">
+<img width="1084" alt="DSA 4" src="https://github.com/user-attachments/assets/5e70c9de-fd50-495b-b800-0208bf08ad12">
+<img width="1084" alt="DSA 5" src="https://github.com/user-attachments/assets/21da39df-275d-4e94-8cfc-d082c3aa9d5f">
+<img width="1083" alt="DSA 6" src="https://github.com/user-attachments/assets/12b3e5e7-08af-4bc7-a31b-e69ee66e5c30">
+<img width="1081" alt="DSA 7" src="https://github.com/user-attachments/assets/70c7a9b8-a99c-49c1-af45-ccecedde707a">
 
-![LootChestgif](https://github.com/forsbergsskola-se/gp23-209-mobile-game-school-is-cool/assets/143493102/108c95b6-85d0-4f78-a4b0-ff6b134963a6)
+![DSA 8](https://github.com/user-attachments/assets/ea947f2e-2df6-4a5d-8548-1aacf56471b4)
 
 
 Unveil the wonders of the deep in Deep Sea Adventure!
 
 ## Thank you!
-
-
